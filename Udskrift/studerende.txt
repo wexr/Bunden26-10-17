@@ -1,0 +1,36 @@
+Navn: Benjamin Ejrup Olsen
+Alder: 29
+Køn: mand
+Adresse: Slotsgade 9 2TV, 4800
+Semester: 1. semester på EASJ Næstved
+
+Navn: Kristian Krisensen
+Alder: 23
+Køn: mand
+Adresse: Engboulevevarden 2a, 4900
+Semester: 1. semester på EASJ Næstved
+
+Navn: Mathias Bech
+Alder: 30
+Køn: mand
+Adresse: Frisegade 12 1TH, 4800
+Semester: 1. semester på EASJ Næstved
+
+Navn: Jakob Svensson
+Alder: 29
+Køn: mand
+Adresse: Gaabensevej 31, 4800
+Semester: 1. semester på EASJ Næstved
+
+Navn: default
+Alder: -50
+Køn: ikke angivet
+Adresse: ikke angivet, 0
+Semester: 0. semester på ikke angivet
+
+Navn: default
+Alder: -50
+Køn: ikke angivet
+Adresse: ikke angivet, 0
+Semester: 0. semester på ikke angivet
+
