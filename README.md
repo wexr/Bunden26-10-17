@@ -7,5 +7,5 @@ The assigtment was to create 4 classes:
 
 I made the main part of this program using a while loop, that makes the user type in menu choices to move around.
 <br />With each input, the user is prompted with new options.
-<br/>The program continuous to run until the user types in proper end command.
+<br/>The program continuous to run until the user types in the proper end command.
 
